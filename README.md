@@ -1,4 +1,4 @@
-# springboot-kafka-demo
+# springboot-redis-cache
 
 이 프로젝트는 Spring Boot와 Redis를 사용하여 캐시 환경을 구축하는 예제 프로젝트입니다.
 
